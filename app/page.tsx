@@ -8,6 +8,7 @@ export default function Home() {
         Parking
       </h2>
       <Button>Test</Button>
+      <Button>Test2</Button>
     </div>
   );
 }
